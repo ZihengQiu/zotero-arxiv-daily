@@ -1,7 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="assets/logo.svg" alt="logo"></a>
-</p>
+</p> 
 
 <h3 align="center">Zotero-arXiv-Daily</h3>
 
